@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@100;200;300;400;500;600&family=Staatliches&family=Syncopate:wght@700&display=swap');
+
+
+.cont{
+    background-color: #DFDFDE;
+    height: 140%;
+    border-radius: 20px;
+    padding: 50px;
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.p1{
+    font-family:'Staatliches', cursive;
+    font-size: 40px;
+}
+
+.p2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+form{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.input{
+    padding: 0.5%;
+    border-radius: 4px;
+    border: 2px solid #820000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+.enviar{
+    width: 10%;
+    background: #820000;
+    padding: 10px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+img{
+    width: 130px;
+    margin-left: 40%;
+}
